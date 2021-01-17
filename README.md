@@ -14,8 +14,6 @@ Hi, I'm Aarsh, CSE undergrad at NIT Hamirpur. I enjoy working on Software Applic
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="25" src="https://img.icons8.com/dusk/128/000000/javascript.png"/></code>
-<code><img height="25" src="https://img.icons8.com/officel/16/000000/react.png"/></code>
-
+<code><img height="25" src="https://img.icons8.com/officel/80/000000/react.png"/></code>
 <br><br>
-
 ![Archit's github stats](https://github-readme-stats.vercel.app/api/?username=aarsh-sharma&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
