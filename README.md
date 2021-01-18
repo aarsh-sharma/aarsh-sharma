@@ -1,4 +1,4 @@
-### Hi 👋🏽, I'm [Aarsh Sharma](http://github.com/aarsh-sharma) 
+### Hi 👋🏽, I'm [Aarsh Sharma](http://aarsh-sharma.github.io) 
 
 Hi, I'm Aarsh, CSE undergrad at NIT Hamirpur. I enjoy working on Software Application and Solving Problems.
 
